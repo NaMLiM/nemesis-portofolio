@@ -1265,15 +1265,6 @@ pricing
   border-radius: 20px;
 }
 
-.pricing-item .pricing-body .price-wrapper .profesional {
-  font-size: 10px !important;
-  font-weight: 500;
-  font-size: 32px;
-  color: #fff;
-  position: relative;
-  top: -1px;
-}
-
 .pricing-item .pricing-body .price-wrapper .currency {
   height: 47px;
   font-weight: 500;
